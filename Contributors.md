@@ -86,6 +86,8 @@
 - [Archishman Dash](https://www.github.com/aholic-archie)
 - [Amit Narine](https://github.com/amitnarine)
 - [Ahmed Kaid](https://github.com/Ahmed-Kaid)
+- Aarav Shah (https://github.com/Aaravsh)
+- 
 - Belkacem Mezhoud
 - [Esta es mi primer contribucion](https://github.com/PabloCH23)
 - [Alex Zhao](https://github.com/zyunfeng)
@@ -198,7 +200,6 @@
 - [Bruno De Paula 🚀](https://github.com/Gr33nLight)
 - [Sudarsan Balaji](https://github.com/artfuldev)
 - [jatin kumar](https://github.com/jatin75757)
-- [Barnamoy Roy](https://github.com/Ed-Monkey)
 - [ahmad nawaz khan](https://github.com/4hmaad)
 - [Ishita Batra](https://github.com/ishita6)
 - [Devanshu Mahapatra](https://github.com/Devanshu-17)
